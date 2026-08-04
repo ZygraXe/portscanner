@@ -31,7 +31,7 @@ No external libraries are required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/python-port-scanner.git
+git clone https://github.com/ZygraXe/python-port-scanner.git
 cd python-port-scanner
 ```
 
